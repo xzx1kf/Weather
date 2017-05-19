@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Weather/CurrentConditionsDisplay.cs">
+    <Files>
+      <File FileName="Weather/WeatherStation.cs" Line="6" Column="3" />
+      <File FileName="Weather/WeatherData.cs" Line="3" Column="1" />
+      <File FileName="Weather/CurrentConditionsDisplay.cs" Line="4" Column="2" />
+      <File FileName="Weather/StatisticsDisplay.cs" Line="19" Column="36" />
+      <File FileName="Weather/ForecastDisplay.cs" Line="17" Column="38" />
+      <File FileName="Weather/HeatIndexDisplay.cs" Line="16" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
